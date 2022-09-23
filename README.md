@@ -8,7 +8,7 @@ Over the past couple of year, COVID has made everyone's lives much more difficul
 # What it does
 ReadRight is an online web-based service that uses Speech-to-Text APIs, a microphone, and a unique analytical algorithm to show the user a paragraph of text in English and analyzes the way they are speaking in order to provide tips on grammatical or phonetical mistakes as well as improvements on overall diction. In essence given a prompt a user can speak and ReadRight will displays the user's speech with annotations on correctness (i. e. a red crossed out word means incorrect).
 
-#How we built it
+# How we built it
 This project can be split into 2 parts: the frontend and backend
 
 ## Frontend:
