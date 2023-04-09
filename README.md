@@ -17,7 +17,7 @@ The frontend was made using vanilla JavaScript, HTML / CSS and a bit of jQuery. 
 The core aspect of the backend was the analysis algorithm that performs a algorithm to figure out the annotation of a singular word. This was incredibly complex and multilayered but in essence this maps a word to a highlighting (red = incorrect, yellow = out of order, grey = missing words).
 The other part of the backend was using Firebases NoSQL RealTime Database to store User authentication info which made the login screen possible.
 Challenges we ran into
-Some challenges we ran into during our development of ReadRight is that most of the group had NO experience with the technology stack that we were using so in effect we had to learn a significant amount of frontend and backend development on the fly. Another Challenge we ran into was getting the Speech Recognition API to work and especially getting the algorithm to correctly annotate the text. The algorithm took a combined 10 hours to make after multiple attempts and pseudocode
+Some challenges we ran into during our development of ReadRight is that most of the group had NO experience with the technology stack that we were using so in effect we had to learn a significant amount of frontend and backend development on the fly. Another Challenge we ran into was getting the Speech Recognition API to work and especially getting the algorithm to correctly annotate the text.
 
 # Accomplishments that we're proud of
 One accomplishment we are especially proud of is our analysis algorithm that is able to compare the given paragraph with what the user says and tell which words are out of order, missing, and extra as well as those words specific positions with respect to what the user says.
